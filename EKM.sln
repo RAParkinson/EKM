@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKM", "EKM\EKM.csproj", "{9C3D41C5-8C6D-45B3-86D9-E2742F7A2A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKM.Tests", "EKM.Tests\EKM.Tests.csproj", "{E1711320-E68B-4695-91E5-8D7A25933A0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3D41C5-8C6D-45B3-86D9-E2742F7A2A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3D41C5-8C6D-45B3-86D9-E2742F7A2A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3D41C5-8C6D-45B3-86D9-E2742F7A2A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3D41C5-8C6D-45B3-86D9-E2742F7A2A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1711320-E68B-4695-91E5-8D7A25933A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1711320-E68B-4695-91E5-8D7A25933A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1711320-E68B-4695-91E5-8D7A25933A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1711320-E68B-4695-91E5-8D7A25933A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92E9627D-16BD-4975-8543-80EE6B82AD03}
+	EndGlobalSection
+EndGlobal
